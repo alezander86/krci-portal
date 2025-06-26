@@ -202,3 +202,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 <div align="center">
   <strong>Built with ❤️ by the KubeRocketCI community</strong>
 </div>
+
